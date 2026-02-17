@@ -3,6 +3,7 @@
 env/
 venv/
 *.egg-info/
+__pycache__/
 
 # Output files
 *.csv
